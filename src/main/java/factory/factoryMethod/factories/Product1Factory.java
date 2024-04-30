@@ -1,8 +1,7 @@
-package factory.factories;
+package factory.factoryMethod.factories;
 
-import factory.AbstractFactory;
-import factory.AbstractProduct;
-import factory.products.Product1;
+import factory.factoryMethod.AbstractFactory;
+import factory.factoryMethod.products.Product1;
 
 public class Product1Factory implements AbstractFactory {
     @Override

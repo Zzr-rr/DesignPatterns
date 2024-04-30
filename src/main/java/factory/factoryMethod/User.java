@@ -1,9 +1,9 @@
-package factory;
+package factory.factoryMethod;
 
-import factory.factories.Product1Factory;
-import factory.factories.Product2Factory;
-import factory.products.Product1;
-import factory.products.Product2;
+import factory.factoryMethod.factories.Product1Factory;
+import factory.factoryMethod.factories.Product2Factory;
+import factory.factoryMethod.products.Product1;
+import factory.factoryMethod.products.Product2;
 
 //       Abstract Factory
 //      /                \

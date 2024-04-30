@@ -1,4 +1,4 @@
-package factory;
+package factory.factoryMethod;
 
 public interface AbstractProduct {
     public String getProductName();

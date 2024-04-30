@@ -1,6 +1,6 @@
-package factory.products;
+package factory.factoryMethod.products;
 
-import factory.AbstractProduct;
+import factory.factoryMethod.AbstractProduct;
 
 public class Product2 implements AbstractProduct {
     private String name;
